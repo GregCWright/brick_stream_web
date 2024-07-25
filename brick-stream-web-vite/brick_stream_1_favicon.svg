@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 700px;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #cd3c1a;
+      }
+
+      .cls-3 {
+        fill: #ff6708;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1105.97" y1="500.313" x2="-36.781" y2="500.313" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#553cf7"/>
+      <stop offset="1" stop-color="#0b73c3" stop-opacity="0.902"/>
+    </linearGradient>
+  </defs>
+  <path id="wave.svg" class="cls-1" d="M1105.98,900.429c-210.908-19.02-370.615-85.261-470.29-206.237C517.008,550.211,550.432,389.232,420.128,252.1,318.821,145.535,162.348,98.634-36.781,100.208"/>
+  <path id="brick_cursor.svg" class="cls-2" d="M609,613.024H897.011V724H609V613.024Z"/>
+  <path id="B" class="cls-3" d="M73.612,723.8H386.566c106.953,0,149.628-45.319,149.628-114.878q0-86.947-90.093-110.661c53.213-16.863,78.5-51.115,78.5-103.811,0-75.355-51.632-113.3-152.789-113.3H73.612V723.8ZM212.7,616.3V544.108H346.525c36.88,0,50.578,12.121,50.578,36.361,0,22.659-14.225,35.833-50.578,35.833H212.7Zm0-155.453V388.655H332.3c38.46,0,53.212,12.647,53.212,35.834,0,24.24-13.7,36.36-53.212,36.36H212.7Z"/>
+</svg>
